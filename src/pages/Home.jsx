@@ -7,7 +7,7 @@ function Home() {
   return (
     <>
     <Navbar />
-    <MainBody />
+    {/* <MainBody /> */}
     <Card />
     </>
   )
